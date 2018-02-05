@@ -1,0 +1,2 @@
+* * * * * echo "hello from cron" 2> /dev/null
+# empty line
